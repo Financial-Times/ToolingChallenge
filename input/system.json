@@ -3,28 +3,28 @@
     "dataItemID": "SystemA",
     "dataTypeID": "system",
     "fields": {
-      "name": "SystemA"
+      "name": "System A"
     }
   },
   {
     "dataItemID": "SystemB",
     "dataTypeID": "system",
     "fields": {
-      "name": "SystemB"
+      "name": "System B"
     }
   },
   {
     "dataItemID": "SystemC",
     "dataTypeID": "system",
     "fields": {
-      "name": "SystemC"
+      "name": "System C"
     }
   },
   {
     "dataItemID": "SystemC",
     "dataTypeID": "system",
     "fields": {
-      "name": "SystemC"
+      "name": "System C"
     }
   }
 ]

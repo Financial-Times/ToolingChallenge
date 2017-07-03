@@ -13,17 +13,17 @@
         {
           "dataItemID": "SystemA",
           "dataTypeID": "system",
-          "name": "SystemA"
+          "name": "System A"
         },
         {
           "dataItemID": "SystemB",
           "dataTypeID": "system",
-          "name": "SystemB"
+          "name": "System B"
         },
         {
           "dataItemID": "SystemC",
           "dataTypeID": "system",
-          "name": "SystemC"
+          "name": "System C"
         }
       ]
     }
@@ -41,7 +41,7 @@
         {
           "dataItemID": "SystemC",
           "dataTypeID": "system",
-          "name": "SystemC"
+          "name": "System C"
         }
       ]
     }
@@ -50,7 +50,7 @@
     "dataItemID": "ProductC",
     "lastUpdate": "2017-05-21T02:43:54.321Z",
     "dataTypeID": "product",
-    "name": "Product B",
+    "name": "Product C",
     "author": "Jason Cold",
     "primaryURL": "https://productc.ft.com",
     "serviceTier": "gold"
