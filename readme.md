@@ -18,8 +18,8 @@ Task
 
 We would like you to do the following:
 
-- Take the 3 files located within the **input** folder and treat them as your data store - each one representing a separate DB table.
-- Create an HTTP endpoint to return the desired output details in the **output.json** file.
+- Take the 3 files located within the **[input](input)** folder and treat them as your data store - each one representing a separate DB table.
+- Create an HTTP endpoint to return the desired output details in the **[output.json](output.json)** file.
 
 
 
@@ -39,4 +39,4 @@ E.g.
 
     ?filter=name,child   
     
-would match the output shown in **additional.json**
+would match the output shown in **[additional.json](additional.json)**
