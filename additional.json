@@ -8,17 +8,17 @@
         {
           "dataItemID": "SystemA",
           "dataTypeID": "system",
-          "name": "SystemA"
+          "name": "System A"
         },
         {
           "dataItemID": "SystemB",
           "dataTypeID": "system",
-          "name": "SystemB"
+          "name": "System B"
         },
         {
           "dataItemID": "SystemC",
           "dataTypeID": "system",
-          "name": "SystemC"
+          "name": "System C"
         }
       ]
     }
@@ -32,7 +32,7 @@
         {
           "dataItemID": "SystemC",
           "dataTypeID": "system",
-          "name": "SystemC"
+          "name": "System C"
         }
       ]
     }
@@ -40,6 +40,6 @@
   {
     "dataItemID": "ProductC",
     "dataTypeID": "product",
-    "name": "Product B",
+    "name": "Product C"
   }
 ]
