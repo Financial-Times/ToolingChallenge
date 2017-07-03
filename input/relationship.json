@@ -1,0 +1,18 @@
+[
+  {
+    "parentID": "ProductA",
+    "childID": "SystemA"
+  },
+  {
+    "parentID": "ProductA",
+    "childID": "SystemB"
+  },
+  {
+    "parentID": "ProductA",
+    "childID": "SystemC"
+  },
+  {
+    "parentID": "ProductB",
+    "childID": "SystemC"
+  }
+]

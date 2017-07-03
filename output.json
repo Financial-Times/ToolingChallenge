@@ -1,0 +1,58 @@
+[
+  {
+    "dataItemID": "ProductA",
+    "lastUpdate": "2017-05-26T01:43:57.321Z",
+    "dataTypeID": "product",
+    "name": "Product A",
+    "author": "Fred Smith",
+    "primaryURL": "https://producta.ft.com",
+    "description": "A simple product",
+    "serviceTier": "silver",
+    "child": {
+      "system": [
+        {
+          "dataItemID": "SystemA",
+          "dataTypeID": "system",
+          "name": "SystemA"
+        },
+        {
+          "dataItemID": "SystemB",
+          "dataTypeID": "system",
+          "name": "SystemB"
+        },
+        {
+          "dataItemID": "SystemC",
+          "dataTypeID": "system",
+          "name": "SystemC"
+        }
+      ]
+    }
+  },
+  {
+    "dataItemID": "ProductB",
+    "lastUpdate": "2017-05-23T01:43:54.321Z",
+    "dataTypeID": "product",
+    "name": "Product B",
+    "author": "Judie Hawn",
+    "primaryURL": "https://productb.ft.com",
+    "serviceTier": "gold",
+    "child": {
+      "system": [
+        {
+          "dataItemID": "SystemC",
+          "dataTypeID": "system",
+          "name": "SystemC"
+        }
+      ]
+    }
+  },
+  {
+    "dataItemID": "ProductC",
+    "lastUpdate": "2017-05-21T02:43:54.321Z",
+    "dataTypeID": "product",
+    "name": "Product B",
+    "author": "Jason Cold",
+    "primaryURL": "https://productc.ft.com",
+    "serviceTier": "gold"
+  }
+]

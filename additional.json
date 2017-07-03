@@ -1,0 +1,45 @@
+[
+  {
+    "dataItemID": "ProductA",
+    "dataTypeID": "product",
+    "name": "Product A",
+    "child": {
+      "system": [
+        {
+          "dataItemID": "SystemA",
+          "dataTypeID": "system",
+          "name": "SystemA"
+        },
+        {
+          "dataItemID": "SystemB",
+          "dataTypeID": "system",
+          "name": "SystemB"
+        },
+        {
+          "dataItemID": "SystemC",
+          "dataTypeID": "system",
+          "name": "SystemC"
+        }
+      ]
+    }
+  },
+  {
+    "dataItemID": "ProductB",
+    "dataTypeID": "product",
+    "name": "Product B",
+    "child": {
+      "system": [
+        {
+          "dataItemID": "SystemC",
+          "dataTypeID": "system",
+          "name": "SystemC"
+        }
+      ]
+    }
+  },
+  {
+    "dataItemID": "ProductC",
+    "dataTypeID": "product",
+    "name": "Product B",
+  }
+]
