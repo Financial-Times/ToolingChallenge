@@ -19,12 +19,5 @@
     "fields": {
       "name": "System C"
     }
-  },
-  {
-    "dataItemID": "SystemC",
-    "dataTypeID": "system",
-    "fields": {
-      "name": "System C"
-    }
   }
 ]
